@@ -22,4 +22,4 @@ CampusPulse is a sleek, high-energy web application designed specifically for un
 ---
 
 ## 👤 Author
-*   **Solo Developer & Product Visionary**
+* Bhumi Singh - Solo Developer & Product Visionary
